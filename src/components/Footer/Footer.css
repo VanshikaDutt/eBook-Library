@@ -1,0 +1,14 @@
+.center{
+    text-align: center;
+    justify-content: center;
+    color: mediumpurple;
+}
+
+#author{
+    color: palevioletred;
+    text-decoration: underline;
+}
+
+#link{
+    text-decoration: none;
+}
